@@ -1,13 +1,33 @@
-### hey, i'm caden 👋
+<h1 align="center">hey, i'm caden 👋</h1>
 
-berkeley student building consumer apps. i like shipping fast and making things people actually use.
+<p align="center">
+berkeley student building consumer apps.<br>
+i like shipping fast and making things people actually use.
+</p>
 
-**stuff i've built**
-- 🏆 [clubmash](https://github.com/cadenchiang/berkeley-club-mash) — my first ever project. head-to-head voting to rank berkeley student clubs. 40,000+ votes in under 24 hours
-- 🗓️ [caltodo](https://caltodo.me) — student calendar + to-do that pulls from canvas, gradescope, pensive, and ai-parses your syllabi. 600+ users
-- 🚀 [endless founders](https://github.com/cadenchiang/endless-founders) — website for a startup residency. 1000+ signups
-- 💸 [wudget](https://github.com/cadenchiang/wudget) — ios spending tracker with widgets, recurring payments, and face id lock
+---
 
-mostly working in swift, typescript, next.js, and supabase.
+<h3 align="center">stuff i've built</h3>
 
+<p align="center">
+🏆 <b><a href="https://github.com/cadenchiang/berkeley-club-mash">clubmash</a></b> — my first ever project. head-to-head voting to rank berkeley student clubs. <b>40,000+ votes in under 24 hours</b>
+</p>
+
+<p align="center">
+🗓️ <b><a href="https://caltodo.me">caltodo</a></b> — student calendar + to-do that pulls from canvas, gradescope, pensive, and ai-parses your syllabi. <b>600+ users</b>
+</p>
+
+<p align="center">
+🚀 <b><a href="https://github.com/cadenchiang/endless-founders">endless founders</a></b> — website for a startup residency. <b>1000+ signups</b>
+</p>
+
+<p align="center">
+💸 <b><a href="https://github.com/cadenchiang/wudget">wudget</a></b> — ios spending tracker with widgets, recurring payments, and face id lock
+</p>
+
+---
+
+<p align="center">
+mostly working in swift, typescript, next.js, and supabase.<br>
 always shipping something new.
+</p>
